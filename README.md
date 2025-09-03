@@ -18,7 +18,7 @@
 
 ## 데이터 정보
 
-train.csv [파일] :
+train.csv [파일] :\n
 ID : 샘플별 고유 ID
 age : 고객 나이
 gender : 고객 성별
