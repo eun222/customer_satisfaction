@@ -19,16 +19,26 @@
 
 ## 데이터 정보
 
-train.csv [파일] :\n
+train.csv [파일] :
+
 ID : 샘플별 고유 ID
+
 age : 고객 나이
+
 gender : 고객 성별
+
 tenure : 고객이 서비스를 이용한 총 기간 (월)
+
 frequent : 고객의 서비스 이용일
+
 payment_interval : 고객의 결제 지연일
+
 subscription_type : 고객의 서비스 등급
+
 contract_length : 고객의 서비스 계약 기간
+
 after_interaction : 고객이 최근 서비스 이용으로부터 경과한 기간 (일)
+
 support_needs : 고객의 지원 필요도 (0 : 낮음 , 1 : 중간 , 2 : 높음)
 
 
